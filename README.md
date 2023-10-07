@@ -4,8 +4,6 @@ I'm a dedicated software engineer with a passion for making open-source contribu
 
 ![My Current Project](https://github.com/hamza7771/hamza7771/blob/main/1691042077438.jpeg)
 
-🔭 **Currently, I'm working on...**
-
 
 <!--
 **hamza7771/hamza7771** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
