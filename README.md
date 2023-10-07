@@ -1,7 +1,7 @@
 ### Hi I'm hamza 👋
 I'm a software engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include Python and C++.
 - 🔭 I’m currently working on ...
-![alt text](http://url/to/img.png)
+![alt text]([http://url/to/img.png](https://www.linkedin.com/in/hamza7771/overlay/background-image/))
 
 
 <!--
