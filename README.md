@@ -4,7 +4,12 @@ I'm a dedicated software engineer with a passion for making open-source contribu
 
 ![Image](https://github.com/hamza7771/hamza7771/blob/main/1691042077438.jpeg)
 
+You can connect with me on social media:
 
+- [LinkedIn](https://www.linkedin.com/in/yourlinkedinprofile/)
+- [GitHub](https://github.com/hamza7771)
+- [Twitter](https://twitter.com/yourtwitterhandle)
+- [Instagram](https://www.instagram.com/yourinstagramprofile/)
 <!--
 **hamza7771/hamza7771** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
