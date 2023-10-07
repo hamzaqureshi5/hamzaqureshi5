@@ -2,7 +2,7 @@
 
 I'm a dedicated software engineer with a passion for making open-source contributions more accessible, leveraging technology to empower individuals, and fostering a sense of community. I specialize in working with cutting-edge technologies, including Python and C++.
 
-![My Current Project](https://github.com/hamza7771/hamza7771/blob/main/1691042077438.jpeg)
+![Image](https://github.com/hamza7771/hamza7771/blob/main/1691042077438.jpeg)
 
 
 <!--
