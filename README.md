@@ -1,6 +1,8 @@
 ### Hi I'm hamza 👋
 I'm a software engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include Python and C++.
 - 🔭 I’m currently working on ...
+![alt text](http://url/to/img.png)
+
 
 <!--
 **hamza7771/hamza7771** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
