@@ -9,6 +9,7 @@ You can connect with me on social media:
 - [LinkedIn](https://www.linkedin.com/in/hamza7771/)
 - [GitHub](https://github.com/hamza7771)
 - [Instagram](https://www.instagram.com/hamza.qureshi.55/)
+- [Facebook](https://www.facebook.com/mohammad.hamzaqureshi.5)
 
 <!--
 **hamza7771/hamza7771** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
