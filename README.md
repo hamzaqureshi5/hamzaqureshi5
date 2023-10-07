@@ -1,8 +1,10 @@
-### Hi I'm Hamza 👋
-I'm a software engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include Python and C++.
-- 🔭 I’m currently working on ...
-![alt text](https://www.linkedin.com/in/hamza7771/overlay/background-image/)
-![alt text](https://github.com/hamza7771/hamza7771/blob/main/1691042077438.jpeg)
+# Hi, I'm Hamza! 👋
+
+I'm a dedicated software engineer with a passion for making open-source contributions more accessible, leveraging technology to empower individuals, and fostering a sense of community. I specialize in working with cutting-edge technologies, including Python and C++.
+
+![My Current Project](https://github.com/hamza7771/hamza7771/blob/main/1691042077438.jpeg)
+
+🔭 **Currently, I'm working on...**
 
 
 <!--
