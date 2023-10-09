@@ -1,4 +1,4 @@
-# Hi, I'm Hamza! 👋👩🏾‍💻
+# Hi, I'm Hamza! 👋👨🏾‍💻
 
 I'm a dedicated software engineer with a passion for making open-source contributions more accessible, leveraging technology to empower individuals, and fostering a sense of community. I specialize in working with cutting-edge technologies, including Python and C++.
 
