@@ -4,7 +4,7 @@ I'm a dedicated software engineer with a passion for making open-source contribu
 
 ![Image](https://github.com/hamza7771/hamza7771/blob/main/1691042077438.jpeg)
 
-I’m a certified AI Developer 🤖  ...
+I’m a Certified AI Developer 🤖  ...
 
 - [Certificate.pdf](https://github.com/hamzaqureshi5/hamzaqureshi5/blob/main/AI_Certificate.pdf)
 
