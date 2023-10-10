@@ -3,7 +3,9 @@
 I'm a dedicated software engineer with a passion for making open-source contributions more accessible, leveraging technology to empower individuals, and fostering a sense of community. I specialize in working with cutting-edge technologies, including Python and C++.
 
 ![Image](https://github.com/hamza7771/hamza7771/blob/main/1691042077438.jpeg)
-[Intro.pdf](https://github.com/hamzaqureshi5/hamzaqureshi5/blob/main/AI_Certificate.pdf)
+- 🤖  I’m a certified AI Developer ...
+
+[Certificate.pdf](https://github.com/hamzaqureshi5/hamzaqureshi5/blob/main/AI_Certificate.pdf)
 
 You can connect with me on social media:
 
