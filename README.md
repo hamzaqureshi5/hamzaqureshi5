@@ -4,7 +4,7 @@ I'm a dedicated software engineer with a passion for making open-source contribu
 
 ![Image](https://github.com/hamza7771/hamza7771/blob/main/1691042077438.jpeg)
 ![pdf](https://github.com/hamzaqureshi5/hamzaqureshi5/blob/main/AI_Certificate.pdf)
-<iframe src="https://docs.google.com/gview?url=https://github.com/hamzaqureshi5/hamzaqureshi5/blob/main/AI_Certificate.pdf&embedded=true" style="width:100%; height:600px;" frameborder="0"></iframe>
+[embed]https://github.com/hamzaqureshi5/hamzaqureshi5/blob/main/AI_Certificate.pdf[/embed]
 
 
 You can connect with me on social media:
