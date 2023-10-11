@@ -6,7 +6,7 @@ I'm a dedicated software engineer with a passion for making open-source contribu
 
 I’m a Certified AI Developer 🤖  ...
 
-- [Certificate.pdf](https://github.com/hamzaqureshi5/hamzaqureshi5/blob/main/AI_Certificate.pdf)
+- [Certificate](https://github.com/hamzaqureshi5/hamzaqureshi5/blob/main/AI_Certificate.pdf)
 
 You can connect with me on social media:
 
