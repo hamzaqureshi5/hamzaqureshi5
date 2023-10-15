@@ -10,9 +10,9 @@ I'm a dedicated software engineer with a passion for making open-source contribu
 
 <p align="left"> <a href="" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=blue" alt="" /></a> </p>
 
-<p align=”center”>
-<a href=””>
-<img src=”https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
+<p align="left">
+<a href="">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
 </a>
 </p>
 
