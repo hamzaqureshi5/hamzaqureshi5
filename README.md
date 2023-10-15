@@ -12,8 +12,7 @@ I’m a Certified AI Developer 🤖  ...
 
 You can connect with me on social media:
 
-[![LinkedIn](https://www.linkedin.com/in/hamza7771/)](https://github.com/hamzaqureshi5/hamzaqureshi5/blob/main/LinkedIn.png)
-
+[[LinkedIn](https://github.com/hamzaqureshi5/hamzaqureshi5/blob/main/LinkedIn.png)](https://www.linkedin.com/in/hamza7771/)
 
 
 <!--
