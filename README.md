@@ -7,7 +7,12 @@ I'm a dedicated software engineer with a passion for making open-source contribu
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?" alt="muhammedh-shadir" /> </p>
-[![General badge](https://img.shields.io/badge/<AA>-<AA>-<>.svg)](https://shields.io/)
+<p align="left" >
+<a href="">
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?">
+</a>
+</p>
+
 
 
 <p align="left" >
