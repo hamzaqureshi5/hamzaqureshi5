@@ -10,19 +10,15 @@ I’m a Certified AI Developer 🤖  ...
 
 - [Certificate](https://github.com/hamzaqureshi5/hamzaqureshi5/blob/main/AI_Certificate.pdf)
 
-You can connect with me on social media:
-
-- [LinkedIn](https://www.linkedin.com/in/hamza7771/)
-- [Facebook](https://www.facebook.com/mohammad.hamzaqureshi.5/)
 
 You can connect with me on social media:
 
 <p align="left">
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shadirmuhammedh" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/muhammedhshadir/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hamza7771/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/21383227/muhammedh-shadir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/21383227/muhammedh-shadir" height="30" width="40" /></a>
-<a href="https://www.facebook.com/mohammad.hamzaqureshi.5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/muhammedh.shadir/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/hamza.qureshi.55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/muhammedhshadir/" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hamza7771/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hamza7771/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/13400998/hamza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/13400998/hamza" height="30" width="40" /></a>
+<a href="https://www.facebook.com/mohammad.hamzaqureshi.5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mohammad.hamzaqureshi.5/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/hamza.qureshi.55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/hamza.qureshi.55" height="30" width="40" /></a>
 </p>
 
 
@@ -31,7 +27,13 @@ Contact me at:
 
 
 
+
 <!--
+You can connect with me on social media:
+- [LinkedIn](https://www.linkedin.com/in/hamza7771/)
+- [Facebook](https://www.facebook.com/mohammad.hamzaqureshi.5/)
+
+
 **hamza7771/hamza7771** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [[LinkedIn](https://github.com/hamzaqureshi5/hamzaqureshi5/blob/main/LinkedIn.png)](https://www.linkedin.com/in/hamza7771/)
 Here are some ideas to get you started:
