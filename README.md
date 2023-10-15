@@ -21,7 +21,7 @@ I'm a dedicated software engineer with a passion for making open-source contribu
 
 - 🤖 I’m a [Certified AI Developer](https://github.com/hamzaqureshi5/hamzaqureshi5/blob/main/AI_Certificate.pdf)
 
-- 🎓 I’m currently studying for **PCPP1™ – Certified Professional in Python Programming** certification
+- 🎓 I’m currently studying for **PCPP1™ – Certified Professional in Python Programming**
 
 - 📧 Contact me at: [hamza7771.861@gmail.com](mailto:hamza7771.861@gmail.com)
 
