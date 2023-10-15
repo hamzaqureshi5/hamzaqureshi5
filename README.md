@@ -29,10 +29,6 @@ Contact me at:
 
 
 <!--
-You can connect with me on social media:
-- [LinkedIn](https://www.linkedin.com/in/hamza7771/)
-- [Facebook](https://www.facebook.com/mohammad.hamzaqureshi.5/)
-
 
 **hamza7771/hamza7771** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [[LinkedIn](https://github.com/hamzaqureshi5/hamzaqureshi5/blob/main/LinkedIn.png)](https://www.linkedin.com/in/hamza7771/)
@@ -47,3 +43,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+You can connect with me on social media:
+- [LinkedIn](https://www.linkedin.com/in/hamza7771/)
+- [Facebook](https://www.facebook.com/mohammad.hamzaqureshi.5/)
+
