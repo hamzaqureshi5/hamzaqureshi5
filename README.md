@@ -9,7 +9,7 @@ I'm a dedicated software engineer with a passion for making open-source contribu
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammedh-shadir&label=Profile%20views&color=0e75b6&style=flat" alt="muhammedh-shadir" /> </p>
 
 
-<p align="left">
+<p align="left" style="margin-left: 20px;">
 <a href="">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
 </a>
