@@ -17,7 +17,7 @@ I'm a dedicated software engineer with a passion for making open-source contribu
 </p>
 
 
-- 📚 I’m currently learning **Django**
+- 📚 I’m currently learning **Django** and **Flask** frameworks
 
 - 🤖 I’m a [Certified Artificial Intelligence Developer](https://github.com/hamzaqureshi5/hamzaqureshi5/blob/main/AI_Certificate.pdf)
 
