@@ -11,11 +11,12 @@ I’m a Certified AI Developer 🤖  ...
 - [Certificate](https://github.com/hamzaqureshi5/hamzaqureshi5/blob/main/AI_Certificate.pdf)
 
 You can connect with me on social media:
-- 📧 Email: [hamza7771.861@gmail.com](mailto:hamza7771.861@gmail.com)
 
 - [LinkedIn](https://www.linkedin.com/in/hamza7771/)
 - [Facebook](https://www.facebook.com/mohammad.hamzaqureshi.5/)
 
+Contact me at:
+- 📧 Email: [hamza7771.861@gmail.com](mailto:hamza7771.861@gmail.com)
 
 
 <!--
