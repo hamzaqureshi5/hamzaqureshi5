@@ -4,7 +4,6 @@ I'm a dedicated software engineer with a passion for making open-source contribu
 
 ![Image](https://github.com/hamza7771/hamza7771/blob/main/1691042077438.jpeg)
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammedh-shadir&label=Profile%20views&color=0e75b6&style=flat" alt="muhammedh-shadir" /> </p>
 
 <p align="left"> <a href="https://twitter.com/shadirmuhammedh" target="blank"><img src="https://www.linkedin.com/in/hamza7771/" alt="hamza7771" /></a> </p>
@@ -47,6 +46,8 @@ Contact me at:
 
 **hamza7771/hamza7771** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [[LinkedIn](https://github.com/hamzaqureshi5/hamzaqureshi5/blob/main/LinkedIn.png)](https://www.linkedin.com/in/hamza7771/)
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
