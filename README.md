@@ -15,7 +15,8 @@ You can connect with me on social media:
 - [LinkedIn](https://www.linkedin.com/in/hamza7771/)
 - [Facebook](https://www.facebook.com/mohammad.hamzaqureshi.5/)
 
-<h3 align="left">Connect with me:</h3>
+You can connect with me on social media:
+
 <p align="left">
 <a href="https://twitter.com/shadirmuhammedh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shadirmuhammedh" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/muhammedhshadir/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammedhshadir/" height="30" width="40" /></a>
