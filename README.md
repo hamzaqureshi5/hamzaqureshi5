@@ -6,7 +6,7 @@ I'm a dedicated software engineer with a passion for making open-source contribu
 
 - 🌱 I’m currently learning **Django**
 
-- 👨‍💻 All of my projects are available at [hamzaqureshi5](https://github.com/hamzaqureshi5)
+- 👨‍💻 All of my projects are available at [https://github.com/hamzaqureshi5](https://github.com/hamzaqureshi5)
 
 - 💬 Ask me about **MERN stack and related technologies**
 
