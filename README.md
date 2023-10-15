@@ -12,7 +12,7 @@ I’m a Certified AI Developer 🤖  ...
 
 You can connect with me on social media:
 -[linkedin]()
--[linkedin]()
+-[!Facebook]()
 -[linkedin]()
 -[linkedin]()
 
