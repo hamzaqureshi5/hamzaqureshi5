@@ -23,9 +23,9 @@ I'm a dedicated software engineer with a passion for making open-source contribu
 
 - 🎓 I’m currently studying for **PCPP1™ – Certified Professional in Python Programming**
 
-- 📧 Contact me at: [hamza7771.861@gmail.com](mailto:hamza7771.861@gmail.com)
-
 - 💬 Ask me about **C++**, **Python**, **Desktop Application** and **Artificial Intelligence**
+
+- 📧 Contact me at: [hamza7771.861@gmail.com](mailto:hamza7771.861@gmail.com)
 
 
 
