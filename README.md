@@ -11,14 +11,11 @@ I’m a Certified AI Developer 🤖  ...
 - [Certificate](https://github.com/hamzaqureshi5/hamzaqureshi5/blob/main/AI_Certificate.pdf)
 
 You can connect with me on social media:
+
 [<img align="left" alt="Mahesh | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Mahesh | YouTube" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Mahesh | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
-- [LinkedIn](https://www.linkedin.com/in/hamza7771/)
-- [GitHub](https://github.com/hamza7771)
-- [Instagram](https://www.instagram.com/hamza.qureshi.55/)
-- [Facebook](https://www.facebook.com/mohammad.hamzaqureshi.5)
 
 
 
