@@ -4,7 +4,7 @@ I'm a dedicated software engineer with a passion for making open-source contribu
 
 ![Image](https://github.com/hamza7771/hamza7771/blob/main/1691042077438.jpeg)
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently studying for **PCPP1™ – Certified Professional in Python Programming** certification
 
 - 👨‍💻 All of my projects are available at [https://github.com/hamzaqureshi5](https://github.com/hamzaqureshi5)
 
