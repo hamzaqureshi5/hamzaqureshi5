@@ -16,13 +16,13 @@ I'm a dedicated software engineer with a passion for making open-source contribu
 </a>
 </p>
 
-- 🌱 I’m currently learning **Django**
+- 📚 I’m currently learning **Django**
 
 - 🌱 I’m currently studying for **PCPP1™ – Certified Professional in Python Programming** certification
 
 - 👨‍💻 All of my projects are available at [https://github.com/hamzaqureshi5](https://github.com/hamzaqureshi5)
 
-- 💬 Ask me about **C++ Python** and **Desktop Application** related technologies
+- 💬 Ask me about **C++**, **Python**, **Desktop Application** and **Artificial Intelligence**
 
 
 I’m a Certified AI Developer 🤖  ...
