@@ -16,6 +16,7 @@ I'm a dedicated software engineer with a passion for making open-source contribu
 </a>
 </p>
 
+
 - 📚 I’m currently learning **Django**
 
 - 🤖 I’m a [Certified AI Developer](https://github.com/hamzaqureshi5/hamzaqureshi5/blob/main/AI_Certificate.pdf)
@@ -27,9 +28,6 @@ I'm a dedicated software engineer with a passion for making open-source contribu
 - 💬 Ask me about **C++**, **Python**, **Desktop Application** and **Artificial Intelligence**
 
 
-I’m a Certified AI Developer 🤖  ...
-
-- [Certificate](https://github.com/hamzaqureshi5/hamzaqureshi5/blob/main/AI_Certificate.pdf)
 
 
 You can connect with me on social media:
