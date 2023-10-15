@@ -7,7 +7,7 @@ I'm a dedicated software engineer with a passion for making open-source contribu
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammedh-shadir&label=Profile%20views&color=0e75b6&style=flat" alt="muhammedh-shadir" /> </p>
 
-<p align="left"> <a href="https://twitter.com/shadirmuhammedh" target="blank"><img src="https://img.shields.io/twitter/follow/shadirmuhammedh?logo=twitter&style=for-the-badge" alt="shadirmuhammedh" /></a> </p>
+<p align="left"> <a href="https://twitter.com/shadirmuhammedh" target="blank"><img src="https://www.linkedin.com/in/hamza7771/" alt="hamza7771" /></a> </p>
 
 
 - 🌱 I’m currently learning **Django**
