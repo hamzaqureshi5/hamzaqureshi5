@@ -8,7 +8,7 @@ I'm a dedicated software engineer with a passion for making open-source contribu
 
 - 👨‍💻 All of my projects are available at [https://github.com/hamzaqureshi5](https://github.com/hamzaqureshi5)
 
-- 💬 Ask me about **MERN stack and related technologies**
+- 💬 Ask me about **C++ Python** and **Desktop Application** related technologies
 
 - 📫 How to reach me **hamza7771.861@gmail.com**
 
