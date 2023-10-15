@@ -42,8 +42,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 You can connect with me on social media:
 - [LinkedIn](https://www.linkedin.com/in/hamza7771/)
 - [Facebook](https://www.facebook.com/mohammad.hamzaqureshi.5/)
+
+-->
 
