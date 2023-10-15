@@ -23,7 +23,7 @@ I'm a dedicated software engineer with a passion for making open-source contribu
 
 - 🎓 I’m currently studying for **PCPP1™ – Certified Professional in Python Programming** certification
 
-- 👨‍💻 All of my projects are available at [https://github.com/hamzaqureshi5](https://github.com/hamzaqureshi5)
+- 📧 Contact me at: [hamza7771.861@gmail.com](mailto:hamza7771.861@gmail.com)
 
 - 💬 Ask me about **C++**, **Python**, **Desktop Application** and **Artificial Intelligence**
 
