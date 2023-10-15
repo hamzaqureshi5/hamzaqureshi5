@@ -5,7 +5,7 @@ I'm a dedicated software engineer with a passion for making open-source contribu
 ![Image](https://github.com/hamza7771/hamza7771/blob/main/1691042077438.jpeg)
 
 
- [![General badge](https://img.shields.io/badge/Profile Views-861-0078D4.svg)](https://shields.io/)
+ [![General badge](https://img.shields.io/badge/Profile-Views-861-0078D4.svg)](https://shields.io/)
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
