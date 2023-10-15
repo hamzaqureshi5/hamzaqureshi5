@@ -11,10 +11,7 @@ I’m a Certified AI Developer 🤖  ...
 - [Certificate](https://github.com/hamzaqureshi5/hamzaqureshi5/blob/main/AI_Certificate.pdf)
 
 You can connect with me on social media:
--[linkedin]()
--[!Facebook]()
--[linkedin]()
--[linkedin]()
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 
 <!--
