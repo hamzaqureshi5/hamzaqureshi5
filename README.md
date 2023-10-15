@@ -14,6 +14,7 @@ You can connect with me on social media:
 
 - [LinkedIn](https://www.linkedin.com/in/hamza7771/)
 - [Facebook](https://www.facebook.com/mohammad.hamzaqureshi.5/)
+- [Gmail](hamza7771.861#gmail.com)
 
 
 
