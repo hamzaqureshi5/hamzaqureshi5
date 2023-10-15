@@ -12,13 +12,13 @@ I’m a Certified AI Developer 🤖  ...
 
 You can connect with me on social media:
 
-[![LinkedIn]](https://www.linkedin.com/in/hamza7771/)(https://github.com/hamzaqureshi5/hamzaqureshi5/blob/main/LinkedIn.png)
+[![LinkedIn](https://www.linkedin.com/in/hamza7771/)](https://github.com/hamzaqureshi5/hamzaqureshi5/blob/main/LinkedIn.png)
 
 
 
 <!--
 **hamza7771/hamza7771** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[![LinkedIn]](https://www.linkedin.com/in/hamza7771/)(https://github.com/hamzaqureshi5/hamzaqureshi5/blob/main/LinkedIn.png)
+[![LinkedIn](https://www.linkedin.com/in/hamza7771/)](https://github.com/hamzaqureshi5/hamzaqureshi5/blob/main/LinkedIn.png)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
