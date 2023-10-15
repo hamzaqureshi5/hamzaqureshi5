@@ -18,6 +18,8 @@ I'm a dedicated software engineer with a passion for making open-source contribu
 
 - 📚 I’m currently learning **Django**
 
+- 🤖 I’m a Certified AI Developer [Certificate](https://github.com/hamzaqureshi5/hamzaqureshi5/blob/main/AI_Certificate.pdf)
+
 - 🌱 I’m currently studying for **PCPP1™ – Certified Professional in Python Programming** certification
 
 - 👨‍💻 All of my projects are available at [https://github.com/hamzaqureshi5](https://github.com/hamzaqureshi5)
