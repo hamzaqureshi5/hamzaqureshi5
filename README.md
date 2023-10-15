@@ -21,12 +21,14 @@ I'm a dedicated software engineer with a passion for making open-source contribu
 
 - 🤖 I’m a [Certified AI Developer](https://github.com/hamzaqureshi5/hamzaqureshi5/blob/main/AI_Certificate.pdf)
 
-- 🌱 I’m currently studying for **PCPP1™ – Certified Professional in Python Programming** certification
+- 🎓 I’m currently studying for **PCPP1™ – Certified Professional in Python Programming** certification
 
 - 👨‍💻 All of my projects are available at [https://github.com/hamzaqureshi5](https://github.com/hamzaqureshi5)
 
 - 💬 Ask me about **C++**, **Python**, **Desktop Application** and **Artificial Intelligence**
 
+Contact me at:
+- 📧 Email: [hamza7771.861@gmail.com](mailto:hamza7771.861@gmail.com)
 
 
 
@@ -40,9 +42,6 @@ You can connect with me on social media:
 <a href="https://www.instagram.com/hamza.qureshi.55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/hamza.qureshi.55" height="30" width="40" /></a>
 </p>
 
-
-Contact me at:
-- 📧 Email: [hamza7771.861@gmail.com](mailto:hamza7771.861@gmail.com)
 
 
 
