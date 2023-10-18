@@ -7,7 +7,7 @@ I'm a dedicated software engineer with a passion for making open-source contribu
 
  [![General badge](https://img.shields.io/badge/Profile%20Views-861-0078D4.svg)](https://shields.io/)
 
-<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="250" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 
 <p align="left" >
@@ -21,7 +21,7 @@ I'm a dedicated software engineer with a passion for making open-source contribu
 
 - 🤖 I’m a [Certified Artificial Intelligence Developer](https://github.com/hamzaqureshi5/hamzaqureshi5/blob/main/AI_Certificate.pdf)
 
-- 🎓 I’m currently studying for **PCPP1™ – Certified Professional in Python Programming**
+- 🎓 I’m currently preparing for **PCPP1™ – Certified Professional in Python Programming**
 
 - 💬 Ask me about **C++**, **Python**, **Desktop Application** and **Artificial Intelligence**
 
