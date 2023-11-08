@@ -19,6 +19,8 @@ I'm a dedicated software engineer with a passion for making open-source contribu
 
 - 📚 I’m currently learning **Django** and **Flask**
 
+- 📚 I’m currently working on **PyQt6** and **QT/C++**
+
 - 🤖 I’m a [Certified Artificial Intelligence Developer](https://github.com/hamzaqureshi5/hamzaqureshi5/blob/main/AI_Certificate.pdf)
 
 - 🎓 I’m currently preparing for **PCPP1™ – Certified Professional in Python Programming**
