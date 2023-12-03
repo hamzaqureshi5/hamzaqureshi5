@@ -11,7 +11,7 @@ I'm a dedicated software engineer with a passion for making open-source contribu
 
 
 <p align="left" >
-<a href="">
+<a href="https://www.linkedin.com/in/hamza7771">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
 </a>
 </p>
