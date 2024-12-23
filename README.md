@@ -20,7 +20,7 @@ I'm a dedicated software engineer with a passion for making open-source contribu
 
 - 📚 I’m currently learning **FastAPI**, **LangChain** and **LangGraph**
 
-- 📚 I’m currently working on **PyQt6** and **QT/C++**
+- 📚 I’m currently working on **AI Agents**
 
 - 🤖 I’m a [Certified Artificial Intelligence Developer](https://github.com/hamzaqureshi5/hamzaqureshi5/blob/main/AI_Certificate.pdf)
 
