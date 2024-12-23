@@ -11,19 +11,20 @@ I'm a dedicated software engineer with a passion for making open-source contribu
 
 
 <p align="left" >
-<a href="https://www.linkedin.com/in/hamza7771">
+<a href="https://www.linkedin.com/in/hamzaqureshi5">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
 </a>
 </p>
 
 
-- 📚 I’m currently learning **Django** and **Flask**
+
+- 📚 I’m currently learning **FastAPI**, **LangChain** and **LangGraph**
 
 - 📚 I’m currently working on **PyQt6** and **QT/C++**
 
 - 🤖 I’m a [Certified Artificial Intelligence Developer](https://github.com/hamzaqureshi5/hamzaqureshi5/blob/main/AI_Certificate.pdf)
 
-- 💬 Ask me about **C++**, **Python**, **Desktop Application** and **Artificial Intelligence**
+- 💬 Ask me about **Python**, **LLM**, **Transformers** and **AI Agents**
 
 - 📧 Contact me at: [hamza7771.861@gmail.com](mailto:hamza7771.861@gmail.com)
 
