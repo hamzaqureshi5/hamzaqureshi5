@@ -1,6 +1,6 @@
 # Hi, I'm Hamza! 👋👨🏾‍💻
 
-I'm a dedicated software engineer with a passion for making open-source contributions more accessible, leveraging technology to empower individuals, and fostering a sense of community. I specialize in working with cutting-edge technologies, including AI Agents, RAG Graph RAG, and automation for business processes.
+I'm a dedicated software engineer with a passion for making open-source contributions more accessible, leveraging technology to empower individuals, and fostering a sense of community. I specialize in working with cutting-edge technologies, including AI Agents, RAG, GraphRAG, and automation for business processes.
 
 ![Image](https://github.com/hamza7771/hamza7771/blob/main/1691042077438.jpeg)
 
