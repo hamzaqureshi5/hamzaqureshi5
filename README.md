@@ -18,15 +18,15 @@ I'm a dedicated software engineer with a passion for making open-source contribu
 
 
 
-- 📚 I’m currently learning **FastAPI**, **LangChain**, **LangGraph**, and **LlamaIndex** for **production-grade Agentic Workflows**
+- 📚 I’m currently learning **FastAPI**, **LangChain**, **LangGraph**, and **LlamaIndex** for **production-grade Agentic Workflows**.
 
 - 📚 I’m currently working on Machine Learning Compilers (TVM, LLVM, MLIR, IREE) to optimize and deploy LLMs on AI accelerators—CUDA, ROCm, TensorRT, OpenVINO, Metal, Vulkan—and custom accelerators.
 
-- 🏅 I’m a [Certified Artificial Intelligence Developer](https://github.com/hamzaqureshi5/hamzaqureshi5/blob/main/AI_Certificate.pdf)
+- 🏅 I’m a [Certified Artificial Intelligence Developer](https://github.com/hamzaqureshi5/hamzaqureshi5/blob/main/AI_Certificate.pdf).
 
-- 💬 Ask me about **Python**, **LLM**, **Transformers**, **AI Agents** and **Machine Learning Compilers**
+- 💬 Ask me about **Python**, **LLM**, **Transformers**, **AI Agents** and **Machine Learning Compilers**.
 
-- 📧 Contact me at: [hamza7771.861@gmail.com](mailto:hamza7771.861@gmail.com)
+- 📧 Contact me at: [hamza7771.861@gmail.com](mailto:hamza7771.861@gmail.com).
 
 
 
