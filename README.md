@@ -7,7 +7,7 @@ I'm a dedicated software engineer with a passion for making open-source contribu
 
  [![General badge](https://img.shields.io/badge/Profile%20Views-861-0078D4.svg)](https://shields.io/)
 
-<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 
 <p align="left" >
