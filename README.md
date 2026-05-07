@@ -29,6 +29,7 @@ I'm a dedicated software engineer with a passion for making open-source contribu
 - 📧 Contact me at: [hamza7771.861@gmail.com](mailto:hamza7771.861@gmail.com).
 
 
+<!--
 
 You can connect with me on social media:
 
@@ -44,7 +45,6 @@ You can connect with me on social media:
 
 
 
-<!--
 - 🎓 I’m currently preparing for **PCPP1™ – Certified Professional in Python Programming** 
 
 Languages and Tools:
