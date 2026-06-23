@@ -1,6 +1,6 @@
 # Hi, I'm Hamza! 👋👨🏾‍💻
 
-I'm an AI Compiler Engineer accelerating Transformers and LLMs across CPU, GPU, FPGA, and custom accelerators. I work across the **TVM · MLIR · LLVM · IREE** stack — graph rewriting, progressive lowering (graph → TensorIR/MLIR → LLVM IR), kernel fusion, and schedule tuning — to ship efficient, hardware-aware code, with ~5 years building backend systems and ML infrastructure in modern C++ and Python.
+I'm an AI Compiler Engineer building model export and compilation pipelines that turn high‑level models (**PyTorch · ONNX**) into highly optimized inference artifacts across CPU, GPU, FPGA, and custom accelerators. I work across the **TVM · MLIR · LLVM · IREE** stack — graph capture, progressive lowering (graph → TensorIR/MLIR → LLVM IR), custom compiler passes, kernel fusion, and schedule tuning — to improve build time, memory footprint, and on‑device latency, with ~5 years building backend systems and ML infrastructure in modern **C++** and **Python**.
 
 ![Image](https://github.com/hamzaqureshi5/hamzaqureshi5/blob/main/1691042077438.jpeg)
 
@@ -19,21 +19,49 @@ I'm an AI Compiler Engineer accelerating Transformers and LLMs across CPU, GPU, 
 </a>
 </p>
 
+## 🔧 Tech Stack
+
+**Languages**
+
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+**Compilers & IR**
+
 ![TVM](https://img.shields.io/badge/TVM-FF6F00?style=flat)
-![LLVM](https://img.shields.io/badge/LLVM-262D3A?style=flat&logo=llvm&logoColor=white)
 ![MLIR](https://img.shields.io/badge/MLIR-5C2D91?style=flat)
+![LLVM](https://img.shields.io/badge/LLVM-262D3A?style=flat&logo=llvm&logoColor=white)
+![XLA](https://img.shields.io/badge/XLA-EE4C2C?style=flat)
+![Triton](https://img.shields.io/badge/Triton-1F6FEB?style=flat)
+![CUTLASS](https://img.shields.io/badge/CUTLASS-76B900?style=flat&logo=nvidia&logoColor=white)
+
+**Frameworks & Serving**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat&logo=onnx&logoColor=white)
+![vLLM](https://img.shields.io/badge/vLLM-30A14E?style=flat)
+![SGLang](https://img.shields.io/badge/SGLang-1F6FEB?style=flat)
+![TensorRT-LLM](https://img.shields.io/badge/TensorRT--LLM-76B900?style=flat&logo=nvidia&logoColor=white)
+
+**Hardware & Acceleration**
+
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white)
+![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=flat&logo=nvidia&logoColor=white)
+![Jetson Thor](https://img.shields.io/badge/Jetson%20Thor-76B900?style=flat&logo=nvidia&logoColor=white)
 
 
 
 - 🔭 I’m currently an **AI Software Engineer at DreamBig Semiconductor**, optimizing LLM inference through graph- and kernel-level transformations in TVM and IREE for GPU, FPGA, and custom accelerators.
 
-- 🧱 I’m working with **Machine Learning Compilers** (TVM, LLVM, MLIR, IREE) to optimize and deploy LLMs on AI accelerators—CUDA, ROCm, TensorRT, OpenVINO, Metal, Vulkan—and custom silicon.
+- 🧱 I architect **compiler passes and analyses** that cut build time, memory footprint, and runtime latency while preserving model fidelity—across the **TVM, LLVM, MLIR, IREE** stack targeting CUDA, ROCm, TensorRT, OpenVINO, Metal, Vulkan, and custom silicon.
+
+- 🔁 I build **model export & compilation pipelines** (PyTorch / ONNX → IR → accelerator engines) with tooling to validate numerical correctness, bisect performance regressions, and surface actionable diagnostics to model authors.
+
+- 🚗 I deploy and optimize models for **edge / embedded AI accelerators**, including **NVIDIA Jetson Thor**, for low‑latency on‑device inference.
 
 - 🏅 I’m a [Certified Artificial Intelligence Developer](https://github.com/hamzaqureshi5/hamzaqureshi5/blob/main/AI_Certificate.pdf).
 
-- 💬 Ask me about **Compilers**, **LLM inference**, **Transformers**, **HPC**.
+- 💬 Ask me about **Compilers**, **LLM inference**, **Transformers**, **GPU/CUDA**, and **HPC**.
 
 - 📧 Contact me at: [hamza7771.861@gmail.com](mailto:hamza7771.861@gmail.com).
 
