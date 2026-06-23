@@ -2,10 +2,6 @@
 
 **AI Compiler Engineer** — I turn high‑level models (**PyTorch · TensorFlow · JAX · ONNX**) into optimized inference artifacts across CPU, GPU, FPGA, and custom accelerators, working across the **TVM · MLIR · LLVM · IREE** stack to cut build time, memory footprint, and on‑device latency.
 
-![Image](https://github.com/hamzaqureshi5/hamzaqureshi5/blob/main/1691042077438.jpeg)
-
-
- [![General badge](https://img.shields.io/badge/Profile%20Views-861-0078D4.svg)](https://shields.io/)
 
 <p align="left" >
 <a href="https://www.linkedin.com/in/hamzaqureshi5">
