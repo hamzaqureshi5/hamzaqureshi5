@@ -1,6 +1,6 @@
 # Hi, I'm Hamza! 👋👨🏾‍💻
 
-I'm an AI Compiler Engineer building model export and compilation pipelines that turn high‑level models (**PyTorch · ONNX**) into highly optimized inference artifacts across CPU, GPU, FPGA, and custom accelerators. I work across the **TVM · MLIR · LLVM · IREE** stack — graph capture, progressive lowering (graph → TensorIR/MLIR → LLVM IR), custom compiler passes, kernel fusion, and schedule tuning — to improve build time, memory footprint, and on‑device latency, with ~5 years building backend systems and ML infrastructure in modern **C++** and **Python**.
+**AI Compiler Engineer** — I turn high‑level models (**PyTorch · TensorFlow · JAX · ONNX**) into optimized inference artifacts across CPU, GPU, FPGA, and custom accelerators, working across the **TVM · MLIR · LLVM · IREE** stack to cut build time, memory footprint, and on‑device latency.
 
 ![Image](https://github.com/hamzaqureshi5/hamzaqureshi5/blob/main/1691042077438.jpeg)
 
