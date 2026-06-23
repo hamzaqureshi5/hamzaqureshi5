@@ -38,6 +38,8 @@
 **Frameworks & Serving**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![JAX](https://img.shields.io/badge/JAX-8A2BE2?style=flat)
 ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat&logo=onnx&logoColor=white)
 ![vLLM](https://img.shields.io/badge/vLLM-30A14E?style=flat)
 ![SGLang](https://img.shields.io/badge/SGLang-1F6FEB?style=flat)
