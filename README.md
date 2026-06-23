@@ -66,7 +66,3 @@
 [![Hamza's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamzaqureshi5&show_icons=true&theme=tokyonight)](https://github.com/hamzaqureshi5)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzaqureshi5&layout=compact&theme=tokyonight)](https://github.com/hamzaqureshi5)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=hamzaqureshi5&theme=tokyonight)](https://github.com/hamzaqureshi5)
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=hamzaqureshi5&theme=tokyonight&no-frame=true&column=7)](https://github.com/hamzaqureshi5)
-
