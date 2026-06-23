@@ -3,9 +3,9 @@
 **AI Compiler Engineer** — I turn high‑level models (**PyTorch · TensorFlow · JAX · ONNX**) into optimized inference artifacts across CPU, GPU, FPGA, and custom accelerators, working across the **TVM · MLIR · LLVM · IREE** stack to cut build time, memory footprint, and on‑device latency.
 
 
-<img align="right" alt="Coding" width="280" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
 ## 🔧 Tech Stack
+
+<img align="right" alt="Coding" width="280" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 **Languages**
 
