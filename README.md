@@ -3,15 +3,6 @@
 **AI Compiler Engineer** — I turn high‑level models (**PyTorch · TensorFlow · JAX · ONNX**) into optimized inference artifacts across CPU, GPU, FPGA, and custom accelerators, working across the **TVM · MLIR · LLVM · IREE** stack to cut build time, memory footprint, and on‑device latency.
 
 
-<p align="left" >
-<a href="https://www.linkedin.com/in/hamzaqureshi5">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
-</a>
-<a href="mailto:hamza7771.861@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white">
-</a>
-</p>
-
 <img align="right" alt="Coding" width="280" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ## 🔧 Tech Stack
@@ -49,6 +40,8 @@
 ![Jetson Thor](https://img.shields.io/badge/Jetson%20Thor-76B900?style=flat&logo=nvidia&logoColor=white)
 
 <br clear="right"/>
+
+## 🚀 What I Do
 
 - 🔭 I’m currently an **AI Software Engineer at DreamBig Semiconductor**, optimizing LLM inference through graph- and kernel-level transformations in TVM and IREE for GPU, FPGA, and custom accelerators.
 
