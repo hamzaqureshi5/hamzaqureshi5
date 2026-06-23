@@ -1,14 +1,13 @@
 # Hi, I'm Hamza! 👋👨🏾‍💻
 
+<img align="right" alt="Coding" width="280" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
 **AI Compiler Engineer** — I turn high‑level models (**PyTorch · TensorFlow · JAX · ONNX**) into optimized inference artifacts across CPU, GPU, FPGA, and custom accelerators, working across the **TVM · MLIR · LLVM · IREE** stack to cut build time, memory footprint, and on‑device latency.
 
 ![Image](https://github.com/hamzaqureshi5/hamzaqureshi5/blob/main/1691042077438.jpeg)
 
 
  [![General badge](https://img.shields.io/badge/Profile%20Views-861-0078D4.svg)](https://shields.io/)
-
-<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
 
 <p align="left" >
 <a href="https://www.linkedin.com/in/hamzaqureshi5">
@@ -18,6 +17,8 @@
 <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white">
 </a>
 </p>
+
+<br clear="right"/>
 
 ## 🔧 Tech Stack
 
@@ -48,6 +49,8 @@
 **Hardware & Acceleration**
 
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white)
+![cuDNN](https://img.shields.io/badge/cuDNN-76B900?style=flat&logo=nvidia&logoColor=white)
+![cuBLAS](https://img.shields.io/badge/cuBLAS-76B900?style=flat&logo=nvidia&logoColor=white)
 ![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=flat&logo=nvidia&logoColor=white)
 ![Jetson Thor](https://img.shields.io/badge/Jetson%20Thor-76B900?style=flat&logo=nvidia&logoColor=white)
 
@@ -71,9 +74,6 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/hamzaqureshi5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/13400998/hamza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" /></a>
-<a href="https://www.facebook.com/mohammad.hamzaqureshi.5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
-<a href="https://www.instagram.com/hamza.qureshi.55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 </p>
 
 ## 📊 GitHub Stats
