@@ -1,7 +1,5 @@
 # Hi, I'm Hamza! 👋👨🏾‍💻
 
-<img align="right" alt="Coding" width="280" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
 **AI Compiler Engineer** — I turn high‑level models (**PyTorch · TensorFlow · JAX · ONNX**) into optimized inference artifacts across CPU, GPU, FPGA, and custom accelerators, working across the **TVM · MLIR · LLVM · IREE** stack to cut build time, memory footprint, and on‑device latency.
 
 ![Image](https://github.com/hamzaqureshi5/hamzaqureshi5/blob/main/1691042077438.jpeg)
@@ -18,7 +16,7 @@
 </a>
 </p>
 
-<br clear="right"/>
+<img align="right" alt="Coding" width="280" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ## 🔧 Tech Stack
 
@@ -54,7 +52,7 @@
 ![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=flat&logo=nvidia&logoColor=white)
 ![Jetson Thor](https://img.shields.io/badge/Jetson%20Thor-76B900?style=flat&logo=nvidia&logoColor=white)
 
-
+<br clear="right"/>
 
 - 🔭 I’m currently an **AI Software Engineer at DreamBig Semiconductor**, optimizing LLM inference through graph- and kernel-level transformations in TVM and IREE for GPU, FPGA, and custom accelerators.
 
