@@ -31,8 +31,6 @@ I'm an AI Compiler Engineer accelerating Transformers and LLMs across CPU, GPU, 
 
 - 🧱 I’m working with **Machine Learning Compilers** (TVM, LLVM, MLIR, IREE) to optimize and deploy LLMs on AI accelerators—CUDA, ROCm, TensorRT, OpenVINO, Metal, Vulkan—and custom silicon.
 
-- 📚 I’m currently learning **FastAPI**, **LangChain**, **LangGraph**, and **LlamaIndex** for production-grade **Agentic Workflows**.
-
 - 🏅 I’m a [Certified Artificial Intelligence Developer](https://github.com/hamzaqureshi5/hamzaqureshi5/blob/main/AI_Certificate.pdf).
 
 - 💬 Ask me about **Compilers**, **LLM inference**, **Transformers**, **HPC**.
