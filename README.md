@@ -58,8 +58,6 @@
 
 - 🧱 I architect **compiler passes and analyses** that cut build time, memory footprint, and runtime latency while preserving model fidelity—across the **TVM, LLVM, MLIR, IREE** stack targeting CUDA, ROCm, TensorRT, OpenVINO, Metal, Vulkan, and custom silicon.
 
-- 🔁 I build **model export & compilation pipelines** (PyTorch / ONNX → IR → accelerator engines) with tooling to validate numerical correctness, bisect performance regressions, and surface actionable diagnostics to model authors.
-
 - 🚗 I deploy and optimize models for **edge / embedded AI accelerators**, including **NVIDIA Jetson Thor**, for low‑latency on‑device inference.
 
 - 🏅 I’m a [Certified Artificial Intelligence Developer](https://github.com/hamzaqureshi5/hamzaqureshi5/blob/main/AI_Certificate.pdf).
