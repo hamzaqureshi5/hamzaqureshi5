@@ -62,8 +62,3 @@
 <a href="https://www.linkedin.com/in/hamzaqureshi5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 </p>
 
-## 📊 GitHub Stats
-
-[![Hamza's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamzaqureshi5&show_icons=true&theme=tokyonight)](https://github.com/hamzaqureshi5)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzaqureshi5&layout=compact&theme=tokyonight)](https://github.com/hamzaqureshi5)
-
