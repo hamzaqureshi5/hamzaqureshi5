@@ -20,7 +20,6 @@
 ![LLVM](https://img.shields.io/badge/LLVM-262D3A?style=flat&logo=llvm&logoColor=white)
 ![XLA](https://img.shields.io/badge/XLA-EE4C2C?style=flat)
 ![Triton](https://img.shields.io/badge/Triton-1F6FEB?style=flat)
-![CUTLASS](https://img.shields.io/badge/CUTLASS-76B900?style=flat&logo=nvidia&logoColor=white)
 
 **Frameworks & Serving**
 
