@@ -43,7 +43,7 @@
 
 ## 🚀 What I Do
 
-- 🔭 I’m currently an **AI Software Engineer at DreamBig Semiconductor**, optimizing LLM inference through graph- and kernel-level transformations in TVM and IREE for GPU, FPGA, and custom accelerators.
+- 🔭 I’m **AI Software Engineer at DreamBig Semiconductor**, optimizing LLM inference through graph- and kernel-level transformations in TVM and IREE for GPU, FPGA, and custom accelerators.
 
 - 🧱 I architect **compiler passes and analyses** that cut build time, memory footprint, and runtime latency while preserving model fidelity—across the **TVM, LLVM, MLIR, IREE** stack targeting CUDA, ROCm, TensorRT, OpenVINO, Metal, Vulkan, and custom silicon.
 
