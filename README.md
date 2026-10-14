@@ -22,7 +22,6 @@ I make AI models run faster on GPUs, FPGAs, and custom accelerators.
 ![MLIR](https://img.shields.io/badge/MLIR-5C2D91?style=flat)
 ![TVM](https://img.shields.io/badge/TVM-FF6F00?style=flat)
 ![IREE](https://img.shields.io/badge/IREE-4285F4?style=flat)
-![XLA](https://img.shields.io/badge/XLA-EE4C2C?style=flat)
 ![Triton](https://img.shields.io/badge/Triton-1F6FEB?style=flat)
 
 **ML & Serving** &nbsp;
@@ -31,14 +30,9 @@ I make AI models run faster on GPUs, FPGAs, and custom accelerators.
 ![JAX](https://img.shields.io/badge/JAX-8A2BE2?style=flat)
 ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat&logo=onnx&logoColor=white)
 ![vLLM](https://img.shields.io/badge/vLLM-30A14E?style=flat)
-![SGLang](https://img.shields.io/badge/SGLang-1F6FEB?style=flat)
 ![TensorRT-LLM](https://img.shields.io/badge/TensorRT--LLM-76B900?style=flat&logo=nvidia&logoColor=white)
 
 **Hardware** &nbsp;
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white)
-![cuDNN](https://img.shields.io/badge/cuDNN-76B900?style=flat&logo=nvidia&logoColor=white)
-![cuBLAS](https://img.shields.io/badge/cuBLAS-76B900?style=flat&logo=nvidia&logoColor=white)
-![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=flat&logo=nvidia&logoColor=white)
 ![Jetson Thor](https://img.shields.io/badge/Jetson%20Thor-76B900?style=flat&logo=nvidia&logoColor=white)
 
 **Languages** &nbsp;
