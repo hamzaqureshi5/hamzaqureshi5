@@ -1,4 +1,4 @@
-# Hi, I'm Hamza! 👋👨🏾‍💻
+# Hi, I'm Hamza 👋
 
 **AI Compiler Engineer** · **LLVM Contributor**
 
@@ -8,14 +8,14 @@ I make AI models run faster on GPUs, FPGAs, and custom accelerators.
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hamza7771.861@gmail.com)
 [![Certified AI Developer](https://img.shields.io/badge/Certified-AI%20Developer-6E40C9?style=flat)](https://github.com/hamzaqureshi5/hamzaqureshi5/blob/main/AI_Certificate.pdf)
 
-## 🚀 What I Do
+## What I Do
 
 - AI Software Engineer at **DreamBig Semiconductor**
 - Contributor to **LLVM**
 - I speed up LLM inference with TVM, MLIR, and IREE
 - I deploy models on edge devices like NVIDIA Jetson Thor
 
-## 🔧 Tech Stack
+## Tech Stack
 
 <table>
   <tr>
