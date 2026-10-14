@@ -2,7 +2,7 @@
 
 **AI Compiler Engineer** · **LLVM Contributor**
 
-I work on making AI models run efficiently on GPUs, FPGAs, and custom accelerators. My focus is compiler optimization across LLVM, MLIR, TVM, and IREE, improving how models are lowered, optimized, and mapped to hardware for better performance and efficiency. I’m particularly interested in bridging the gap between high-level AI models and efficient machine code through compiler optimizations and hardware-aware code generation.
+I make AI models run efficiently on GPUs, FPGAs, and custom accelerators. Using LLVM, MLIR, TVM, and IREE, I optimize how models are lowered and mapped to hardware, bridging high-level AI models and efficient machine code through hardware-aware code generation.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamzaqureshi5/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hamza7771.861@gmail.com)
