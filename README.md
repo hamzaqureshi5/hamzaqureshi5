@@ -10,14 +10,10 @@ I make AI models run faster on GPUs, FPGAs, and custom accelerators.
 
 ## 🚀 What I Do
 
-<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
 - 🔭 AI Software Engineer at **DreamBig Semiconductor**
 - 🐉 Contributor to **LLVM**
 - ⚡ I speed up LLM inference with TVM, MLIR, and IREE
 - 🚗 I deploy models on edge devices like NVIDIA Jetson Thor
-
-<br clear="right"/>
 
 ## 🔧 Tech Stack
 
