@@ -12,11 +12,10 @@ I make AI models run faster on GPUs, FPGAs, and custom accelerators.
 
 <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- 🔭 **AI Software Engineer** at **DreamBig Semiconductor**, speeding up LLM inference with TVM and IREE
-- 🐉 **LLVM Contributor**, working upstream on the compiler infrastructure
-- 🧱 **Compiler passes** that cut build time, memory, and latency
-- 🎯 **Targets**: CUDA, ROCm, TensorRT, OpenVINO, Metal, Vulkan, and custom silicon
-- 🚗 **Edge AI** on NVIDIA Jetson Thor
+- 🔭 AI Software Engineer at **DreamBig Semiconductor**
+- 🐉 Contributor to **LLVM**
+- ⚡ I speed up LLM inference with TVM, MLIR, and IREE
+- 🚗 I deploy models on edge devices like NVIDIA Jetson Thor
 
 <br clear="right"/>
 
