@@ -2,7 +2,9 @@
 
 **AI Compiler Engineer** · **LLVM Contributor**
 
-I make AI models run faster on GPUs, FPGAs, and custom accelerators.
+I make AI models run faster on GPUs, FPGAs, and custom accelerators.\
+I build compiler optimizations in LLVM, MLIR, TVM, and IREE that cut latency and memory.\
+From a PyTorch model to code running on the chip, I optimize every step in between.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamzaqureshi5/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hamza7771.861@gmail.com)
