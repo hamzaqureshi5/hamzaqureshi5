@@ -1,14 +1,10 @@
-<h1 align="center">Hi, I'm Hamza! 👋👨🏾‍💻</h1>
+# Hi, I'm Hamza! 👋👨🏾‍💻
 
-<p align="center">
-  <b>AI Compiler Engineer</b> · LLM Inference · Graph &amp; Kernel Optimization
-</p>
+**AI Compiler Engineer** · LLM Inference · Graph & Kernel Optimization
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/hamzaqureshi5/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:hamza7771.861@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/hamzaqureshi5/hamzaqureshi5/blob/main/AI_Certificate.pdf"><img src="https://img.shields.io/badge/Certified-AI%20Developer-6E40C9?style=flat" alt="Certified AI Developer"/></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamzaqureshi5/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hamza7771.861@gmail.com)
+[![Certified AI Developer](https://img.shields.io/badge/Certified-AI%20Developer-6E40C9?style=flat)](https://github.com/hamzaqureshi5/hamzaqureshi5/blob/main/AI_Certificate.pdf)
 
 ---
 
