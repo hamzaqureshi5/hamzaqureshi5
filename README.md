@@ -1,7 +1,5 @@
 # Hi, I'm Hamza
 
-**AI Compiler Engineer** · **LLVM Contributor**
-
 I make AI models run efficiently on GPUs, FPGAs, and custom accelerators. Using LLVM, MLIR, TVM, and IREE, I optimize how models are lowered and mapped to hardware, bridging high-level AI models and efficient machine code through hardware-aware code generation.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamzaqureshi5/)
